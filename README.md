@@ -31,6 +31,9 @@ To avoid participants prematurely seeing the story file and ruining their surpri
     ```
 
 2. **See commit message hint:**
+    ```bash
+    git log -1 --oneline
+    ```
     - _Suddenly, something happened..._
 
 3. **Write the next part of the story in `story.txt`:**
@@ -56,6 +59,9 @@ To avoid participants prematurely seeing the story file and ruining their surpri
     ```
 
 2. **See commit message hint:**
+   ```bash
+   git log -1 --oneline
+   ```
     - _and etc..._
 
 3. **Write the next part of the story in `story.txt`:**
